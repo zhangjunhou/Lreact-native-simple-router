@@ -1,0 +1,135 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-simple-router",
+        "scope": null,
+        "escapedName": "react-native-simple-router",
+        "name": "react-native-simple-router",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/Terry/lucky"
+    ]
+  ],
+  "_from": "react-native-simple-router@latest",
+  "_id": "react-native-simple-router@0.11.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-simple-router",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-simple-router-0.11.1.tgz_1468956545911_0.02563729020766914"
+  },
+  "_npmUser": {
+    "name": "charpeni",
+    "email": "nicolas.charpentier079@gmail.com"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-simple-router",
+    "scope": null,
+    "escapedName": "react-native-simple-router",
+    "name": "react-native-simple-router",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-simple-router/-/react-native-simple-router-0.11.1.tgz",
+  "_shasum": "69175c92f367d56a7eaea059005df16a7c4af005",
+  "_shrinkwrap": null,
+  "_spec": "react-native-simple-router",
+  "_where": "/Users/Terry/lucky",
+  "author": {
+    "name": "Tristan Edwards",
+    "email": "tristan.edwards@me.com",
+    "url": "http://tristanedwards.me"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-simple-router-community/react-native-simple-router/issues"
+  },
+  "contributors": [
+    {
+      "name": "Mikael Carpenter"
+    },
+    {
+      "name": "Nicolas Charpentier"
+    },
+    {
+      "name": "David Leonardi"
+    }
+  ],
+  "dependencies": {
+    "aspect-js": "^1.0.3",
+    "underscore": "^1.8.3"
+  },
+  "description": "Easy to use Navigator for your react-native app.",
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.0",
+    "eslint-plugin-react": "^5.1.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "69175c92f367d56a7eaea059005df16a7c4af005",
+    "tarball": "https://registry.npmjs.org/react-native-simple-router/-/react-native-simple-router-0.11.1.tgz"
+  },
+  "gitHead": "8f5ef30a093ad24f77903fa54f140260f7689798",
+  "homepage": "https://github.com/react-native-simple-router-community/react-native-simple-router",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "ios",
+    "navigation",
+    "navigation-bar",
+    "navbar",
+    "router",
+    "simple"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "charpeni",
+      "email": "nicolas.charpentier079@gmail.com"
+    },
+    {
+      "name": "johannhof",
+      "email": "mail@johann-hofmann.com"
+    },
+    {
+      "name": "jvlobo",
+      "email": "jvlg2002@hotmail.com"
+    },
+    {
+      "name": "sethx",
+      "email": "david.leonardi@gmail.com"
+    }
+  ],
+  "name": "react-native-simple-router",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-simple-router-community/react-native-simple-router.git"
+  },
+  "scripts": {
+    "test": "eslint . --ignore-pattern examples/"
+  },
+  "version": "0.11.1"
+}
